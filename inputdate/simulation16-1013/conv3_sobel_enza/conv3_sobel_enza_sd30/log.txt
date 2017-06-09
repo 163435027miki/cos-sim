@@ -1,0 +1,16 @@
+Time : 2016/10/14 - 11:20:12
+Rvector_create=0
+ImputImage=..\\bmp\\enza\\enza_sd30.bmp
+ImputImage_size：X=239，Y=239
+Upper_threshold : 1.000000, Under_threshold : -1.000000
+use_upperthreshold_flag : 1, use_underthreshold_flag : 1
+Kernel
+Kernel_size=3
+V0   = ..\\フィルタ\\3×3sobel\\sobel0.txt
+V45  = ..\\フィルタ\\3×3sobel\\sobel45.txt
+V90  = ..\\フィルタ\\3×3sobel\\sobel90.txt
+V135 = ..\\フィルタ\\3×3sobel\\sobel135.txt
+V180 = ..\\フィルタ\\3×3sobel\\sobel180.txt
+V225 = ..\\フィルタ\\3×3sobel\\sobel225.txt
+V270 = ..\\フィルタ\\3×3sobel\\sobel270.txt
+V315 = ..\\フィルタ\\3×3sobel\\sobel315.txt

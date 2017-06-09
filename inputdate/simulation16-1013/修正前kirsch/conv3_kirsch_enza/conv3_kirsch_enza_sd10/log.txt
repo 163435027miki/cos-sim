@@ -1,0 +1,16 @@
+Time : 2016/10/14 - 11:14:51
+Rvector_create=0
+ImputImage=..\\bmp\\enza\\enza_sd10.bmp
+ImputImage_size：X=239，Y=239
+Upper_threshold : 1.000000, Under_threshold : -1.000000
+use_upperthreshold_flag : 1, use_underthreshold_flag : 1
+Kernel
+Kernel_size=3
+V0   = ..\\フィルタ\\3×3kirsch\\kirschM0.txt
+V45  = ..\\フィルタ\\3×3kirsch\\kirschM1.txt
+V90  = ..\\フィルタ\\3×3kirsch\\kirschM2.txt
+V135 = ..\\フィルタ\\3×3kirsch\\kirschM3.txt
+V180 = ..\\フィルタ\\3×3kirsch\\kirschM4.txt
+V225 = ..\\フィルタ\\3×3kirsch\\kirschM5.txt
+V270 = ..\\フィルタ\\3×3kirsch\\kirschM6.txt
+V315 = ..\\フィルタ\\3×3kirsch\\kirschM7.txt

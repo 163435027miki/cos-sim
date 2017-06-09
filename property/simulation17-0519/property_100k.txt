@@ -1,0 +1,9 @@
+256,8,8,8,0,
+..\\Rvector\\simulation17-0203\\8dire_100k_0203
+..\\inputdate\\simulation17-0519\\100k_conv_sd0
+..\\inputdate\\simulation17-0519\\100k_conv_sd10
+..\\inputdate\\simulation17-0519\\100k_conv_sd20
+..\\inputdate\\simulation17-0519\\100k_conv_sd30
+..\\inputdate\\simulation17-0519\\100k_conv_sd40
+..\\inputdate\\simulation17-0519\\100k_conv_sd50
+

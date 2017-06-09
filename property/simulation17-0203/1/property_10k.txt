@@ -1,0 +1,9 @@
+256,8,8,8,0,
+..\\Rvector\\simulation17-0203\\8dire_10k_0203
+..\\inputdate\\simulation17-0203\\1\\RmRg10k
+..\\inputdate\\simulation17-0203\\1\\RmRg10k
+..\\inputdate\\simulation17-0203\\1\\RmRg10k
+..\\inputdate\\simulation17-0203\\1\\RmRg10k
+..\\inputdate\\simulation17-0203\\1\\RmRg10k
+..\\inputdate\\simulation17-0203\\1\\RmRg10k
+

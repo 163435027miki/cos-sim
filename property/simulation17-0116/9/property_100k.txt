@@ -1,0 +1,8 @@
+256,8,8,8,0,
+..\\Rvector\\8dire_100k_0106
+..\\inputdate\\simulation17-0116\\9\\RmRg100k
+..\\inputdate\\simulation17-0116\\9\\RmRg100k
+..\\inputdate\\simulation17-0116\\9\\RmRg100k
+..\\inputdate\\simulation17-0116\\9\\RmRg100k
+..\\inputdate\\simulation17-0116\\9\\RmRg100k
+..\\inputdate\\simulation17-0116\\9\\RmRg100k

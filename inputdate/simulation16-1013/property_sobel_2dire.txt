@@ -1,0 +1,8 @@
+240,2,2,2,0,
+..\\Rvector\\sobel_under_2dire
+..\\inputdate\\simulation16-1013\\conv3_sobel_enza\\conv3_sobel_enza_sd0
+..\\inputdate\\simulation16-1013\\conv3_sobel_enza\\conv3_sobel_enza_sd10
+..\\inputdate\\simulation16-1013\\conv3_sobel_enza\\conv3_sobel_enza_sd20
+..\\inputdate\\simulation16-1013\\conv3_sobel_enza\\conv3_sobel_enza_sd30
+..\\inputdate\\simulation16-1013\\conv3_sobel_enza\\conv3_sobel_enza_sd40
+..\\inputdate\\simulation16-1013\\conv3_sobel_enza\\conv3_sobel_enza_sd50

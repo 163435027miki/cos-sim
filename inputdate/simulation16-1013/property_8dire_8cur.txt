@@ -1,0 +1,8 @@
+240,8,8,8,0,
+..\\Rvector\\Rs1k_under\\8dire_8cur_Rs1k_under
+..\\inputdate\\simulation16-1013\\conv15_8dire_enza_8cur\\conv15_8dire_enza_8cur_sd0
+..\\inputdate\\simulation16-1013\\conv15_8dire_enza_8cur\\conv15_8dire_enza_8cur_sd10
+..\\inputdate\\simulation16-1013\\conv15_8dire_enza_8cur\\conv15_8dire_enza_8cur_sd20
+..\\inputdate\\simulation16-1013\\conv15_8dire_enza_8cur\\conv15_8dire_enza_8cur_sd30
+..\\inputdate\\simulation16-1013\\conv15_8dire_enza_8cur\\conv15_8dire_enza_8cur_sd40
+..\\inputdate\\simulation16-1013\\conv15_8dire_enza_8cur\\conv15_8dire_enza_8cur_sd50

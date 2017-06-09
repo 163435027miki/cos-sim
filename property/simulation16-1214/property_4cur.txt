@@ -1,0 +1,8 @@
+240,4,4,4,0,
+..\\Rvector\\simulation16-1214\\4dire_1214
+..\\inputdate\\Simulation16-1209\\conv15_4cur_enza_sd0
+..\\inputdate\\Simulation16-1209\\conv15_4cur_enza_sd10
+..\\inputdate\\Simulation16-1209\\conv15_4cur_enza_sd20
+..\\inputdate\\Simulation16-1209\\conv15_4cur_enza_sd30
+..\\inputdate\\Simulation16-1209\\conv15_4cur_enza_sd40
+..\\inputdate\\Simulation16-1209\\conv15_4cur_enza_sd50

@@ -1,0 +1,8 @@
+横幅,取得数,使用回路,使用する基準ベクトルの数,0,
+..\\Rvector\\8dire_1000k_0406
+..\\inputdate\\Simulation16-0802\\8方向\\conv15_8dire_enza_sd0
+..\\inputdate\\Simulation16-0802\\8方向\\conv15_8dire_enza_sd10
+..\\inputdate\\Simulation16-0802\\8方向\\conv15_8dire_enza_sd20
+..\\inputdate\\Simulation16-0802\\8方向\\conv15_8dire_enza_sd30
+..\\inputdate\\Simulation16-0802\\8方向\\conv15_8dire_enza_sd40
+..\\inputdate\\Simulation16-0802\\8方向\\conv15_8dire_enza_sd50

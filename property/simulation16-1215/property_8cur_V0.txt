@@ -1,0 +1,8 @@
+512,8,8,8,0,
+..\\Rvector\\simulation16-1215\\8dire_1215_V0
+..\\inputdate\\Simulation16-1215\\conv31_8cur_3k_sin_kumi
+..\\inputdate\\Simulation16-1215\\conv31_8cur_3k_sin_kumi
+..\\inputdate\\Simulation16-1215\\conv31_8cur_3k_sin_kumi
+..\\inputdate\\Simulation16-1215\\conv31_8cur_3k_sin_kumi
+..\\inputdate\\Simulation16-1215\\conv31_8cur_3k_sin_kumi
+..\\inputdate\\Simulation16-1215\\conv31_8cur_3k_sin_kumi

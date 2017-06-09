@@ -1,0 +1,16 @@
+Time : 2016/10/19 - 17:2:47
+Rvector_create=0
+ImputImage=..\\bmp\\enza\\enza_sd20.bmp
+ImputImage_size：X=239，Y=239
+Upper_threshold : 1.000000, Under_threshold : -1.000000
+use_upperthreshold_flag : 1, use_underthreshold_flag : 1
+Kernel
+Kernel_size=15
+V0   = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(0).txt
+V45  = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(45).txt
+V90  = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(90).txt
+V135 = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(135).txt
+V180 = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(180).txt
+V225 = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(225).txt
+V270 = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(270).txt
+V315 = ..\\フィルタ\\15×15回路カーネル\\素Rs=1k\\V(315).txt
